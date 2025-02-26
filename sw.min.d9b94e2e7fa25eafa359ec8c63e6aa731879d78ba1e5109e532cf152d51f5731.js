@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/gh-test/sw.js",{scope:"/gh-test/"})

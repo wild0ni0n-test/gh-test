@@ -1,0 +1,15 @@
+{
+  "name": "テストサイト|タイトル ",
+  "short_name": "テストサイト|タイトル ",
+  "start_url": "/gh-test/",
+  "scope": "/gh-test/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/gh-test/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
