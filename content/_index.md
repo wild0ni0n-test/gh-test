@@ -1,5 +1,10 @@
-+++
-date = '2025-02-26T15:38:01+09:00'
-draft = true
-title = ''
-+++
+---
+title: "Introduction"
+date: 2024-10-30T10:56:12+09:00
+draft: false
+---
+## Introduction
+
+This is **bold** text, and this is *emphasized* text.
+
+Visit the [Hugo](https://gohugo.io) website!
