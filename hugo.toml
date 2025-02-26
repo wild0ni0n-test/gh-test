@@ -1,7 +1,7 @@
 baseURL = 'https://wild0ni0n-test.github.io/gh-test/'
 languageCode = 'ja'
 defaultContentLanguage = 'ja'
-title = 'テストサイト|タイトル'
+title = 'テストサイト|タイトル '
 theme = 'hugo-book'
 enableGitInfo = true
 [params]
