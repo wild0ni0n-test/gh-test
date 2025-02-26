@@ -1,0 +1,10 @@
+baseURL = 'https://wild0ni0n-test.github.io/gh-test/'
+languageCode = 'ja'
+defaultContentLanguage = 'ja'
+title = 'テストサイト|タイトル'
+theme = 'hugo-book'
+enableGitInfo = true
+[params]
+  BookRepo = 'https://wild0ni0n-test.github.io/gh-test/'
+  BookCommitPath = 'commit'
+  BookServiceWorker = true         
